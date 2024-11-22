@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Lua?',
-    'Lua é uma linguagem de programação'
+    'História',
+    'Em que ano o Brasil foi decoberto?',
+    '1500'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da Finlândia?',
-    'A capital da Finlândia é Helsinque'
+    'Qual é o maior país do mundo em entensão ?',
+    'RÚSSIA'
 )
 
 criaCartao(
-    'Culinária',
-    'Quais são os pratos típicos da Itália?',
-    'Os pratos mais típicos da Itália são: Pizza,Ravioli, Spaghetti, Lasagna, Risotto e Arancino'
+    'Matemática',
+    'Qual é o resultado de 4-4x2?',
+    '-4'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz romã em Inglês?',
-    'Romã em ingles é pomegranate'
+    'Ciência',
+    'Qual é a cor do céu em um dia sem nuvens?',
+    'Azul'
 )
